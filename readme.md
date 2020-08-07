@@ -18,8 +18,11 @@ CSV file holds data and can be found in "Resources" folder.
 
 ### Visualizations
 
+#### Gender comparison
 <img width="500" alt="" src="gender_comparison.png">
 
+#### Finding top gamers
 <img width="500" alt="" src="popular.png">
 
+#### Best sellers
 <img width="500" alt="" src="group_top.png">
